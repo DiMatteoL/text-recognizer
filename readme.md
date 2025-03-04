@@ -41,3 +41,15 @@ We will set up monitoring that alerts us to potential issues in our model using 
 
 [yt-logo]: https://fsdl.me/yt-logo-badge
 [open-in-colab]: https://colab.research.google.com/assets/colab-badge.svg
+
+
+
++33698479811
++33683968868
++33678626268
++33663946900
++33788486472
++33610245020
++33619631257
++33646173529
++33629645591
