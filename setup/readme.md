@@ -45,7 +45,7 @@ if "bootstrap" not in locals() or bootstrap.run:
         !echo $PYTHONPATH
 
     # get both Colab and local notebooks into the same state
-    !wget --quiet https://fsdl.me/gist-bootstrap -O bootstrap.py
+    !wget --quiet https://gist.githubusercontent.com/DiMatteoL/d8013606a0c6b7a09f8cd04c2990581f/raw/f0b2004200da770e89070bcfddf2afabc3b77763/bootstrap-text-recognizer.py -O bootstrap.py
     import bootstrap
 
     # change into the lab directory
